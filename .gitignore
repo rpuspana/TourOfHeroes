@@ -1,0 +1,47 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# project files
+repo/node_modules
+
+# compiled output
+/angular-tour-of-heroes/dist
+/angular-tour-of-heroes/dist-server
+/angular-tour-of-heroes/tmp
+/angular-tour-of-heroes/out-tsc
+
+# dependencies
+/angular-tour-of-heroes/node_modules
+
+# IDEs and editors
+/angular-tour-of-heroes/.idea
+/angular-tour-of-heroes.project
+/angular-tour-of-heroes.classpath
+/angular-tour-of-heroes.c9/
+/angular-tour-of-heroes*.launch
+/angular-tour-of-heroes.settings/
+/angular-tour-of-heroes*.sublime-workspace
+
+# IDE - VSCode
+/angular-tour-of-heroes.vscode/*
+!/angular-tour-of-heroes.vscode/settings.json
+!/angular-tour-of-heroes.vscode/tasks.json
+!/angular-tour-of-heroes.vscode/launch.json
+!/angular-tour-of-heroes.vscode/extensions.json
+
+# misc
+/angular-tour-of-heroes/.sass-cache
+/angular-tour-of-heroes/connect.lock
+/angular-tour-of-heroescoverage
+/angular-tour-of-heroes/libpeerconnection.log
+/angular-tour-of-heroesnpm-debug.log
+/angular-tour-of-heroesyarn-error.log
+/angular-tour-of-heroestestem.log
+/angular-tour-of-heroes/typings
+
+# e2e
+/angular-tour-of-heroes/e2e/*.js
+/angular-tour-of-heroes/e2e/*.map
+
+# System Files
+/angular-tour-of-heroes/.DS_Store
+/angular-tour-of-heroes/Thumbs.db
