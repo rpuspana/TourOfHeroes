@@ -17,7 +17,7 @@ ng serve --open
 ### Technologies used
 
 * Angular
-* JavaScript
+* TypeScript
 * HTML / CSS
 * RxJS
 
