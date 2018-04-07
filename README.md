@@ -1,6 +1,6 @@
 # Tour of Heroes
 
-Help a staffing agency manage its stable of heroes.
+Help a staffing agency manage its heroes
 
 Application built while following the tutorial at https://angular.io/tutorial
 
